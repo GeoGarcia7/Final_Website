@@ -1,0 +1,121 @@
+
+.logo{
+	width: 60px;
+}
+
+.text{
+	font-size: 18px;
+}
+
+nav {
+  flow: left;
+  overflow: hidden;
+  background-color: #800000;
+  width:100%;
+  height: 70%; 
+}
+
+nav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 14px;
+  text-decoration: none; 
+}
+nav a:hover {
+  background-color: #F5F5DC;
+  color: black;
+}
+
+Resadd
+{
+    height:50px;
+    
+	}
+Peradd
+{
+    height:50px;
+    
+	}
+body {
+  	background-color: #857e7e;
+	}
+
+.content {
+	max-width: 895px;
+  	margin: auto;
+    background: #D3D3D3;
+  	padding: 10px;
+	}	
+.one {
+ 	 display: block;
+ 	 margin-left: auto;
+  	 margin-right: auto;
+  	 width: 50%;
+     }
+    
+input[type=text] {
+  box-sizing: border-box;
+  border: 2px solid #00FFFF;
+  outline: none;
+	}
+
+input[type=text] {
+  border: 2px solid #00FFFF;
+	}
+    
+input[type=tel] {
+  box-sizing: border-box;
+  border: 2px solid #00FFFF;
+  outline: none;
+	}
+
+input[type=email] {
+  border: 2px solid #00FFFF;
+	}
+    
+input[type=email] {
+  box-sizing: border-box;
+  border: 2px solid #00FFFF;
+  outline: none;
+	}
+
+input[type=email] {
+  border: 2px solid #00FFFF;
+	}
+    
+input[type=list] {
+  box-sizing: border-box;
+  border: 2px solid #00FFFF;
+  outline: none;
+	}
+
+input[type=list] {
+  border: 2px solid #00FFFF;
+	}
+    
+input[type=date] {
+  box-sizing: border-box;
+  border: 2px solid #00FFFF;
+  outline: none;
+	}
+     
+input[type=date] {
+  border: 2px solid #00FFFF;
+	}
+    
+h1 {align-content: center;
+	}
+    
+hr.a {height: 2px;
+	color: gray;
+    background-color: gray;
+    border-width: 0;
+	}
+hr.b {height: 1px;
+	border-width: 0;
+    color: red;
+    background-color: red;
+    }
+    

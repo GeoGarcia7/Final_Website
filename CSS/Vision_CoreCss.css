@@ -1,0 +1,72 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color:#594F4F;
+  font-family: Arial;
+  font-size: 17px;
+}
+
+
+.logo{
+	width: 60px;
+}
+
+.text{
+	font-size: 18px;
+}
+
+nav {
+  flow: left;
+  overflow: hidden;
+  background-color: #800000;
+  width:100%;
+  height: 70%; 
+}
+
+nav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 14px;
+  text-decoration: none; 
+}
+nav a:hover {
+  background-color: #F5F5DC;
+  color: black;
+}
+.container {
+  position: relative;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.container1 {
+  position: relative;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.container img {vertical-align: middle;}
+
+.container .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); 
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+.container .content1 {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); 
+  background: rgba(169, 169, 169, 0.5); 
+  color: #171616;
+  width: 100%;
+  padding: 20px;
+}
+
